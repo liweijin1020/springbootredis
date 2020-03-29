@@ -88,4 +88,7 @@ public class StudentHandler {
         System.out.println(hashOperations.get("key","hashKey"));
 
     }
+    public void test(){
+
+    }
 }
