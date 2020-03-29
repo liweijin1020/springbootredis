@@ -89,6 +89,6 @@ public class StudentHandler {
 
     }
     public void test(){
-
+        System.out.println("测试");
     }
 }
